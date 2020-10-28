@@ -17,17 +17,19 @@ public class User implements Serializable{
 	private Long id;
 	private String name;
 	private String email;
+	private String password;
 	private String phone;
 	
 	public User() {
 		
 	}
 
-	public User(Long id, String name, String email, String phone) {
+	public User(Long id, String name, String email,String password, String phone) {
 		super();
 		this.id = id;
 		this.name = name;
 		this.email = email;
+		this.password = password;
 		this.phone = phone;
 	}
 
@@ -86,6 +88,14 @@ public class User implements Serializable{
 		} else if (!id.equals(other.id))
 			return false;
 		return true;
+	}
+
+	public String getPassword() {
+		return password;
+	}
+
+	public void setPassword(String password) {
+		this.password = password;
 	}
 	
 
