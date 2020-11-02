@@ -10,6 +10,7 @@ Este Projeto tem como objetivo:
 - Tratamento de exceções
 
 Desenvolver o backend de uma aplicação Web Service com SpringBoot e JPA
+Projeto desenvolvido em estudo e acompanhamento com o curso na Udemy (https://www.udemy.com/course/java-curso-completo)
 
 ## Getting started
 
