@@ -13,6 +13,14 @@ Desenvolver o backend de uma aplicação Web Service com SpringBoot e JPA
 
 Projeto desenvolvido em estudo e acompanhamento com o curso na Udemy (https://www.udemy.com/course/java-curso-completo)
 
+## UML do projeto
+
+![](https://github.com/Gabrirodri/Java-Spring-Crud/blob/main/uml-spring-jpa-project01.PNG)
+
+## Arquitetura de Camadas
+
+![](https://github.com/Gabrirodri/Java-Spring-Crud/blob/main/logica-de-camadas-spring-jpa-project01.PNG)
+
 ## Getting started
 
 #### REQUISITOS
